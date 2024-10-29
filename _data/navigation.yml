@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Main"
+  - title: "Resume"
     url: /assets/docs/Mission.pdf
-  - title: "A Little Bit About Me"
+  - title: "Main"
     url: /portfolio/
   - title: "Research"
     url: /teaching/
-  - title: "Resume"
+  - title: "A Little Bit About Me"
     url: /links/
   - title: "Contact"
     url: /contact/
