@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Main"
     url: /assets/docs/Mission.pdf
-  - title: "Research"
+  - title: "A Little Bit About Me"
     url: /portfolio/
-  - title: "Teaching"
+  - title: "Research"
     url: /teaching/
-  - title: "Links"
+  - title: "Resume"
     url: /links/
   - title: "Contact"
     url: /contact/
